@@ -10,4 +10,7 @@ section {
 }
 h3{
     color:crimson;
-}
+} h4{
+     text-transform:uppercase;
+        font-width:bold;
+        color:black;}
