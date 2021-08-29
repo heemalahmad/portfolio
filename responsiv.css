@@ -71,7 +71,10 @@
     span {
         font-weight: bold;
         font-size: 15px;
-    }
+    } h4{
+     text-transform:uppercase;
+        font-width:bold;
+        color:black;}
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -96,7 +99,10 @@
         margin: 5px;
         background-color: #444;
         color: azure;
-    }
+    } h4{
+     text-transform:uppercase;
+        font-width:bold;
+        color:black;}
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
@@ -138,7 +144,10 @@
         font-size: 16px;
         line-height: 35px;
 
-    }
+    } h4{
+     text-transform:uppercase;
+        font-width:bold;
+        color:black;}
 
     h2 {
         text-align: center;
